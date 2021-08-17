@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="home" />
+    <item
+        android:id="@+id/action_grass"
+        android:icon="@drawable/ic_baseline_grass_24"
+        android:title="grass" />
+    <item
+        android:id="@+id/action_plumb"
+        android:icon="@drawable/ic_baseline_plumbing_24"
+        android:title="plumbing" />
+    <item
+        android:id="@+id/action_dashboard"
+        android:icon="@drawable/ic_baseline_pie_chart_24"
+        android:title="dashboard" />
+</menu>
